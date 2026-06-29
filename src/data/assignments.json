@@ -1,0 +1,38 @@
+[
+  {
+    "id": "as-1",
+    "courseId": "course-1",
+    "courseName": "React & TypeScript Masterclass",
+    "title": "Build a Generics-based Accordion",
+    "description": "Create a reusable, highly flexible accordion component in React using TypeScript generics for the item data. Must include toggle animation, proper typing, and support custom headers.",
+    "dueDate": "July 15, 2026",
+    "maxPoints": 100
+  },
+  {
+    "id": "as-2",
+    "courseId": "course-1",
+    "courseName": "React & TypeScript Masterclass",
+    "title": "Implementing Redux-like Custom Hook",
+    "description": "Write a custom React hook that mimics useReducer but integrates a simple middleware logging system for debugging state transitions.",
+    "dueDate": "August 02, 2026",
+    "maxPoints": 100
+  },
+  {
+    "id": "as-3",
+    "courseId": "course-2",
+    "courseName": "Pixel-Perfect UI/UX Design with Figma",
+    "title": "Create a High-Fidelity Mobile Landing Page",
+    "description": "Design a complete checkout landing page for a mobile food delivery app. Build a comprehensive design system featuring 4 button states, typographic hierarchy, and custom SVG illustrations.",
+    "dueDate": "July 20, 2026",
+    "maxPoints": 100
+  },
+  {
+    "id": "as-4",
+    "courseId": "course-3",
+    "courseName": "Python & Machine Learning Foundations",
+    "title": "Regression Analysis on Housing Data",
+    "description": "Load the provided housing dataset using Pandas, perform basic feature engineering, and train a Linear Regression model using scikit-learn. Write a 2-page notebook describing the MSE results.",
+    "dueDate": "July 25, 2026",
+    "maxPoints": 100
+  }
+]

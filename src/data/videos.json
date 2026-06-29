@@ -1,0 +1,56 @@
+[
+  {
+    "id": "vid-1",
+    "title": "Welcome to SkillBridge & Setting Up TypeScript",
+    "duration": "10:15",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": "vid-2",
+    "title": "Creating your First Typed Component",
+    "duration": "18:30",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "vid-3",
+    "title": "React State Types & Generics",
+    "duration": "25:40",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "id": "vid-4",
+    "title": "Configuring Vite with TypeScript Enums",
+    "duration": "12:55",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": "vid-5",
+    "title": "Figma Workspace Tour & Basic Shapes",
+    "duration": "15:20",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": "vid-6",
+    "title": "Creating Figma Auto-Layout Buttons",
+    "duration": "22:10",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "vid-7",
+    "title": "Numpy Arrays & Pandas DataFrame Basics",
+    "duration": "30:45",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "id": "vid-8",
+    "title": "Training & Testing Split with Scikit-Learn",
+    "duration": "45:12",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": "vid-9",
+    "title": "Introduction to ethical port-scanning with Nmap",
+    "duration": "20:00",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  }
+]

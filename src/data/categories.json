@@ -1,0 +1,44 @@
+[
+  {
+    "id": "web-dev",
+    "name": "Web Development",
+    "icon": "Code",
+    "coursesCount": 15,
+    "color": "from-blue-500 to-indigo-500"
+  },
+  {
+    "id": "ui-ux",
+    "name": "UI/UX Design",
+    "icon": "Palette",
+    "coursesCount": 8,
+    "color": "from-purple-500 to-pink-500"
+  },
+  {
+    "id": "data-science",
+    "name": "Data Science",
+    "icon": "Database",
+    "coursesCount": 12,
+    "color": "from-emerald-500 to-teal-500"
+  },
+  {
+    "id": "pm",
+    "name": "Product Management",
+    "icon": "Briefcase",
+    "coursesCount": 6,
+    "color": "from-amber-500 to-orange-500"
+  },
+  {
+    "id": "mobile-dev",
+    "name": "Mobile Development",
+    "icon": "Smartphone",
+    "coursesCount": 10,
+    "color": "from-rose-500 to-red-500"
+  },
+  {
+    "id": "cyber-security",
+    "name": "Cyber Security",
+    "icon": "Shield",
+    "coursesCount": 7,
+    "color": "from-violet-500 to-purple-500"
+  }
+]

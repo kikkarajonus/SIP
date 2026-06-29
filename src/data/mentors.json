@@ -1,0 +1,53 @@
+[
+  {
+    "id": "u-mentor-1",
+    "name": "Prof. Marcus Aurelius",
+    "email": "mentor@skillbridge.com",
+    "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "Node.js"],
+    "bio": "Senior Frontend Engineer with 8+ years of industry experience. Passionate about mentoring the next generation of web developers.",
+    "experience": "8 Years",
+    "rating": 4.9,
+    "totalStudents": 1240,
+    "coursesCount": 2,
+    "socialLinks": {
+      "twitter": "https://twitter.com/marcus",
+      "linkedin": "https://linkedin.com/in/marcus",
+      "github": "https://github.com/marcus"
+    }
+  },
+  {
+    "id": "u-mentor-2",
+    "name": "Clara Oswald",
+    "email": "clara@skillbridge.com",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "skills": ["UI/UX Design", "Figma", "Design Systems"],
+    "bio": "Product Designer with expertise in Figma, design systems, and visual story-telling.",
+    "experience": "5 Years",
+    "rating": 4.8,
+    "totalStudents": 820,
+    "coursesCount": 1,
+    "socialLinks": {
+      "twitter": "https://twitter.com/clara",
+      "linkedin": "https://linkedin.com/in/clara",
+      "github": "https://github.com/clara"
+    }
+  },
+  {
+    "id": "u-mentor-3",
+    "name": "Alan Turing",
+    "email": "alan@skillbridge.com",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "skills": ["Data Science", "Python", "Machine Learning"],
+    "bio": "Machine Learning researcher with deep foundations in algorithms, mathematical modeling, and data science.",
+    "experience": "10 Years",
+    "rating": 5.0,
+    "totalStudents": 2300,
+    "coursesCount": 1,
+    "socialLinks": {
+      "twitter": "https://twitter.com/alan",
+      "linkedin": "https://linkedin.com/in/alan",
+      "github": "https://github.com/alan"
+    }
+  }
+]

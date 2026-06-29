@@ -1,0 +1,11 @@
+[
+  {
+    "id": "cert-1",
+    "courseId": "course-1",
+    "courseName": "React & TypeScript Masterclass",
+    "studentName": "Jane Doe",
+    "mentorName": "Prof. Marcus Aurelius",
+    "issueDate": "June 28, 2026",
+    "certificateId": "SB-REACT-82740-TS"
+  }
+]

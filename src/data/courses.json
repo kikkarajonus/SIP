@@ -1,0 +1,106 @@
+[
+  {
+    "id": "course-1",
+    "courseName": "React & TypeScript Masterclass",
+    "description": "Learn to build high-performance, type-safe web applications from scratch using React, TypeScript, and modern state-management tools.",
+    "mentorId": "u-mentor-1",
+    "mentorName": "Prof. Marcus Aurelius",
+    "rating": 4.9,
+    "studentsEnrolled": 524,
+    "duration": "14h 30m",
+    "difficultyLevel": "Intermediate",
+    "category": "Web Development",
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600",
+    "price": 49.99,
+    "modules": [
+      {
+        "id": "m1",
+        "title": "Introduction to TypeScript in React",
+        "videos": ["vid-1", "vid-2"]
+      },
+      {
+        "id": "m2",
+        "title": "State Management & Custom Hooks",
+        "videos": ["vid-3"]
+      },
+      {
+        "id": "m3",
+        "title": "Performance Optimization & Testing",
+        "videos": ["vid-4"]
+      }
+    ]
+  },
+  {
+    "id": "course-2",
+    "courseName": "Pixel-Perfect UI/UX Design with Figma",
+    "description": "Master visual design principles, component libraries, wireframes, prototypes, and developer-handoff procedures in Figma.",
+    "mentorId": "u-mentor-2",
+    "mentorName": "Clara Oswald",
+    "rating": 4.8,
+    "studentsEnrolled": 321,
+    "duration": "9h 15m",
+    "difficultyLevel": "Beginner",
+    "category": "UI/UX Design",
+    "thumbnail": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=600",
+    "price": 39.99,
+    "modules": [
+      {
+        "id": "m4",
+        "title": "Understanding Layout & Grid Systems",
+        "videos": ["vid-5"]
+      },
+      {
+        "id": "m5",
+        "title": "Designing Flexible Components & Variants",
+        "videos": ["vid-6"]
+      }
+    ]
+  },
+  {
+    "id": "course-3",
+    "courseName": "Python & Machine Learning Foundations",
+    "description": "Dive deep into data analysis, numpy, pandas, matplotlib, scikit-learn, and neural network principles with Python.",
+    "mentorId": "u-mentor-3",
+    "mentorName": "Alan Turing",
+    "rating": 5.0,
+    "studentsEnrolled": 956,
+    "duration": "22h 45m",
+    "difficultyLevel": "Advanced",
+    "category": "Data Science",
+    "thumbnail": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600",
+    "price": 69.99,
+    "modules": [
+      {
+        "id": "m6",
+        "title": "Python Data Ecosystem: Pandas & Numpy",
+        "videos": ["vid-7"]
+      },
+      {
+        "id": "m7",
+        "title": "Building your First ML Model",
+        "videos": ["vid-8"]
+      }
+    ]
+  },
+  {
+    "id": "course-4",
+    "courseName": "Ethical Hacking & Network Defense",
+    "description": "Learn cybersecurity fundamentals, network vulnerability assessments, firewalls, threat identification, and practical defensive operations.",
+    "mentorId": "u-mentor-1",
+    "mentorName": "Prof. Marcus Aurelius",
+    "rating": 4.7,
+    "studentsEnrolled": 142,
+    "duration": "18h 20m",
+    "difficultyLevel": "Advanced",
+    "category": "Cyber Security",
+    "thumbnail": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600",
+    "price": 59.99,
+    "modules": [
+      {
+        "id": "m8",
+        "title": "Vulnerability Analysis & Port Scanning",
+        "videos": ["vid-9"]
+      }
+    ]
+  }
+]

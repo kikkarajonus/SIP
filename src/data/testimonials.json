@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Jenkins",
+    "role": "Full Stack Developer",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "rating": 5,
+    "content": "SkillBridge completely changed my learning journey. I learned React from an amazing mentor, and now I am hosting my own introductory CSS course on the platform!"
+  },
+  {
+    "id": "2",
+    "name": "Alex Rivera",
+    "role": "UI/UX Designer",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "rating": 5,
+    "content": "The peer-to-peer approach is brilliant. Mentors explain things in standard student-friendly terms, making learning twice as fast and much more interactive."
+  },
+  {
+    "id": "3",
+    "name": "David Chen",
+    "role": "Data Analyst",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "rating": 4,
+    "content": "I signed up as a mentor to share my Python knowledge. The dashboard makes it super easy to track my students' progress and grade their assignments."
+  }
+]

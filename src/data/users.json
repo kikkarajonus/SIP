@@ -1,0 +1,80 @@
+[
+  {
+    "id": "u-student-1",
+    "email": "student@skillbridge.com",
+    "name": "Jane Doe",
+    "password": "password123",
+    "role": "student",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "bio": "Enthusiastic computer science student passionate about frontend technologies and user experience design.",
+    "skills": ["HTML", "CSS", "Basic JS"],
+    "enrolledCourses": ["course-1", "course-3"],
+    "wishlist": ["course-2"],
+    "completedCourses": [],
+    "certificates": []
+  },
+  {
+    "id": "u-mentor-1",
+    "email": "mentor@skillbridge.com",
+    "name": "Prof. Marcus Aurelius",
+    "password": "password123",
+    "role": "mentor",
+    "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150",
+    "bio": "Senior Frontend Engineer with 8+ years of industry experience. Passionate about mentoring the next generation of web developers.",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "Node.js"],
+    "experience": "8 Years",
+    "rating": 4.9,
+    "totalStudents": 1240,
+    "socialLinks": {
+      "twitter": "https://twitter.com/marcus",
+      "linkedin": "https://linkedin.com/in/marcus",
+      "github": "https://github.com/marcus"
+    }
+  },
+  {
+    "id": "u-admin-1",
+    "email": "admin@skillbridge.com",
+    "name": "Sarah Croft",
+    "password": "password123",
+    "role": "admin",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "bio": "Lead coordinator and administrator for the SkillBridge platform. Dedicated to high-quality peer learning ecosystems.",
+    "skills": ["Management", "E-learning Coordinator", "Operations"]
+  },
+  {
+    "id": "u-mentor-2",
+    "email": "clara@skillbridge.com",
+    "name": "Clara Oswald",
+    "password": "password123",
+    "role": "mentor",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "bio": "Product Designer with expertise in Figma, design systems, and visual story-telling.",
+    "skills": ["UI/UX Design", "Figma", "Design Systems"],
+    "experience": "5 Years",
+    "rating": 4.8,
+    "totalStudents": 820,
+    "socialLinks": {
+      "twitter": "https://twitter.com/clara",
+      "linkedin": "https://linkedin.com/in/clara",
+      "github": "https://github.com/clara"
+    }
+  },
+  {
+    "id": "u-mentor-3",
+    "email": "alan@skillbridge.com",
+    "name": "Alan Turing",
+    "password": "password123",
+    "role": "mentor",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "bio": "Machine Learning researcher with deep foundations in algorithms, mathematical modeling, and data science.",
+    "skills": ["Data Science", "Python", "Machine Learning"],
+    "experience": "10 Years",
+    "rating": 5.0,
+    "totalStudents": 2300,
+    "socialLinks": {
+      "twitter": "https://twitter.com/alan",
+      "linkedin": "https://linkedin.com/in/alan",
+      "github": "https://github.com/alan"
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "rev-1",
+    "courseId": "course-1",
+    "studentName": "Emily Watson",
+    "rating": 5,
+    "comment": "The section on custom React Hook typings was an absolute game-changer. Prof. Marcus explains tricky concepts so clearly!",
+    "date": "June 15, 2026"
+  },
+  {
+    "id": "rev-2",
+    "courseId": "course-1",
+    "studentName": "Jordan Blake",
+    "rating": 4,
+    "comment": "Solid curriculum. Sometimes the code builds quickly, but slowing it down made everything click beautifully.",
+    "date": "June 18, 2026"
+  },
+  {
+    "id": "rev-3",
+    "courseId": "course-2",
+    "studentName": "Sophia Martinez",
+    "rating": 5,
+    "comment": "Amazing visual layout instructions. The auto-layout tips alone are worth the time. Best Figma course!",
+    "date": "June 20, 2026"
+  },
+  {
+    "id": "rev-4",
+    "courseId": "course-3",
+    "studentName": "Carlos Santana",
+    "rating": 5,
+    "comment": "Deeply mathematical and extremely comprehensive. Alan Turing's insights are unmatched.",
+    "date": "June 25, 2026"
+  }
+]

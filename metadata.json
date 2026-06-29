@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge",
+  "description": "Peer Learning & Mentorship Platform supporting students, mentors, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "notif-1",
+    "userId": "u-student-1",
+    "title": "Welcome to SkillBridge!",
+    "message": "Start exploring courses, or submit a request to become a mentor once you excel at your skills.",
+    "time": "2 hours ago",
+    "read": false,
+    "role": "student"
+  },
+  {
+    "id": "notif-2",
+    "userId": "u-student-1",
+    "title": "New Assignment Posted",
+    "message": "Prof. Marcus posted 'Implementing Redux-like Custom Hook' for React & TypeScript Masterclass.",
+    "time": "1 day ago",
+    "read": true,
+    "role": "student"
+  },
+  {
+    "id": "notif-3",
+    "userId": "u-mentor-1",
+    "title": "New Enrollment",
+    "message": "A student has just enrolled in your 'React & TypeScript Masterclass' course.",
+    "time": "4 hours ago",
+    "read": false,
+    "role": "mentor"
+  },
+  {
+    "id": "notif-4",
+    "userId": "u-admin-1",
+    "title": "New Mentor Request",
+    "message": "Jane Doe has applied to become a mentor for 'Next.js Development'.",
+    "time": "3 hours ago",
+    "read": false,
+    "role": "admin"
+  }
+]
